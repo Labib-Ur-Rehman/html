@@ -1,0 +1,29 @@
+#labibcusine{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    text-align: center;
+}
+#moto{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+th {
+    border: 1px solid black;
+}
+
+th {
+    padding: 15px;
+}
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+form{
+    text-align: center;
+}
